@@ -5,6 +5,7 @@ The DIY Craft Simulation Game is a blockchain-powered platform that allows users
 
 ## Contract Address
 0xEC5e4C19af9E7c2aC511169C3Ef626BAB4e07FE8
+![image](https://github.com/user-attachments/assets/b639b029-2246-4e09-b8c6-2f426d3fbd74)
 
 ## Project Vision
 Our vision is to revolutionize the crafting experience by merging creativity with blockchain technology. By tokenizing virtual crafted items, we aim to provide players with true ownership, transparency, and a thriving digital marketplace. The DIY Craft Simulation Game fosters creativity, collaboration, and innovation within a decentralized ecosystem.
